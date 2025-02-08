@@ -1,0 +1,1 @@
+# bash_resource_check
